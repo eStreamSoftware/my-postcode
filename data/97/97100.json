@@ -1,0 +1,38 @@
+[
+    {
+        "Postcode": "97100",
+        "Location": "Labang",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "97100",
+        "Location": "Pandan",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "97100",
+        "Location": "Sebauh",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "97100",
+        "Location": "Tubau",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "97100",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "97100",
+        "Location": "Kampung Sebauh Hilir",
+        "Post_Office": "Sebauh",
+        "State": "Sarawak"
+    }
+]

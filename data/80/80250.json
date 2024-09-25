@@ -1,0 +1,866 @@
+[
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Ara",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Balau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Cengai",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Jati",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Jelutong",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kancil",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kempas",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kemuning",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kemunting",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Keranji",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Keruing",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kijang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Meranti",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Tembusu",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Kurnia",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Leban",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Merbau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Napoh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Pulai",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rengas",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Resak",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Sakti",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Seraya",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Seruling",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Serunai",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 1",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 2",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 3",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 4",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 5",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 6",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 7",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad 8",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 1",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 2",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 3",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 4",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 5",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 6",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rusa 7",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "City Plaza",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Flat Sri Setanggi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Holiday Plaza",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Abad",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Angsana",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Anugerah",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bajing",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Balau 1",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Batai",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bedara",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Belinjau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bentajau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Beringin",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Beruang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bijaksana",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bingkisan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bujur",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Bulat",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Cendana",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Cenderamata",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Dato Sulaiman",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Dedap",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Gaharu",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Gelam",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Gelama",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Gerongang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Giam",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Akar",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Belang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Bintang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Dahan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Garang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Kumbang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Tarom",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Harimau Telap",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kapor",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kebun Teh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kebun Teh Lama",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kecapi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kemangi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kemeyan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Ketapang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kuda",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kurniawan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Kurniawati",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Lambang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Batu",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Kawan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Kelubi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Maman",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Raya",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Landak Tunggal",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Lencana",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Meranti Merah",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Merawan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Meruas",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Musang Belang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Musang Bulan",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Musang Jebat",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Musang Pulut",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Nafiri",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Nandong",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Nibong",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Nyireh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Oleh Oleh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Padada",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Pelanduk",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Penaga",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Perwira",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Q",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Ru",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Seladang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Sempena",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Seneka",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Serigala",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Taban",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Tebrau",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Terap",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Terentang",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Tupai",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Usaha",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Wazir",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Wijaya",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jkr Tentera",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Kebun Teh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Kurnia (Kubor Dagang)",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Serantau Baru",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Setanggi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Kampung Tok Siak",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Lorong Keranji",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Polis Depoh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Abad",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Century",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Kebun Teh",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Majidee",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Majidee Park",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Perbadanan Islam",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Abadi",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Taman Melodies",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Rebana",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "80250",
+        "Location": "Jalan Sena",
+        "Post_Office": "Johor Bahru",
+        "State": "Johor"
+    }
+]

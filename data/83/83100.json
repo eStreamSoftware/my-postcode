@@ -1,0 +1,866 @@
+[
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Besar",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Maju Jaya",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Besar",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Sri Damai",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Pandan Jaya 1",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Muhibbah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Bahrom Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Bahrom Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Maju Baru",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Rengit Jaya",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Gantong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Ahmad",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Haji Noor",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Latiff",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Tengah Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Tengah Sri Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Damai",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Perumahan Awam",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Ria",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Aked Mara",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Bagan Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Bagan Serong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Bazar Mara",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Belahan Tampok Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Belakang Tokong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Hoe Heng",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Hoe Hing",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Pak Awang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Jalan Parit Mesjid",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Bagan Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Bagan Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Belahan Tampok Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Bumiputra",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jambi",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jambi Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jambi Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jambi Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jaya Diri",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Jaya Diri Timur",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Lapis Sri Bahrom",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Lapis Sungai Dulang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Alwee Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Daing Mencening",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Jalal",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Jalal Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Latif ",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Mengkudu Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Mengkudu Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Perpat Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Perpat Lapis",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Perpat Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Tamsir",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Parit Tengah Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Perpat Abd Rahman",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Perpat Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Perpat Tambak",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Barat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Besar",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Besar Tambak",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Kecil",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Masjid",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Punggor Timur",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Seri Belahan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Bahrum",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Bahrum Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Belahan Tampok Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Ledang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sri Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Bagan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Bagan Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Bagan Serong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Bagan Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Barat Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Dulang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Dulang Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Jambi Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Kluang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Kluang Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Kluang Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Kluang Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Merlong Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Merlong Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Punggor  Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Punggor Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Tongkang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Tongkang Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Sungai Tongkang Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Kampung Usrah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Budiman",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Celcom",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Haji Ali",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Haji Tahir",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Hamzah Hitam",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Hidayah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Madu",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Lorong Mumat Saleh",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Belahan Tampok",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Belahan Tampok Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Borhan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Gantong Seri Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Haji Alwi",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Korea Selatan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Lapis Gantong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Lapis Perepat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Lapis Rengit",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Lapis Sri Ladang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Mengkudu",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Perepat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Perpat Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Sarpan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Sri Aman",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Sri Merlong",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Tamsir",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Tengah (Parit Sibor)",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Parit Tengah Sri Ladang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Punggor",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Rengit",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Seri Baharom",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Seri Baharom Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Seri Ladang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sri Aman",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sri Belahan",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Dulang Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Dulang Laut",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Dulang Tengah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Dulang Timur",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Dulangtambak",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Jambi",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Keluang Darat",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Sungai Tongkang",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Dato Jalal",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Jasa Amir",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Jaya 1",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Karang Muhibbah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Pandan Jaya",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Pandan Jaya 2",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Rengit",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Rengit Impian",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "83100",
+        "Location": "Taman Rengit Indah",
+        "Post_Office": "Rengit",
+        "State": "Johor"
+    }
+]

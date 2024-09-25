@@ -1,0 +1,926 @@
+[
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Kebangsaan Sri Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Balai Polis",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Pasir Mas",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Puteri Saadong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Banggol Petani",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Mulong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Selesa",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Delima",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Tanjung",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Belukar 1",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Belukar 2",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Morak 2",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Morak 3",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Rokma 2",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Rokma 3",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Masjid",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Pasar Lama",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Baru",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Belukar",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Bukit",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kubang Mas",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kubang Palas",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kulim",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Perupok",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Surau",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Jaya",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Murni",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Permai",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Baru Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Baru Hulu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Batu 2 1/2 Jalan Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Hadapan Balai Polis",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Alor Pasir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Atas Kubu Kubang Palas Dalam",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Baru @ Jalan Gedong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Baru Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Batu 4",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Belakang Sekolah Menengah Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Belakang Sekolah Rendah Kebangsaan Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Belakang Stesyen Ktm",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Besar Kepala Jambatan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Besar Kutan Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Besar Lama @ Jalan Zainal",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Besar Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Delima",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Dusun Langgar",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Hilir Klinik",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Hulu Station",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Klinik Pasir Pekan Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Masjid Delima",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Masjid Kutan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Masjid Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Masjid Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Padang Lati",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Padang Rokma",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Sekolah Kebangsaan Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Sekolah Menengah Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Stesyen Ktm",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Jalan Taman Tanjung",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Alor Durian",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Alor Pasir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Alor Tok Menora",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Atas Bonggol",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Balaisah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Bechah Temalang",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Bunut Sarang Burong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Chenderong Batu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Chenderong Batu Timur",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Dalam Kota",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Delima",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Dusun Langgar",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Dusun Rendah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Gaung",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kedai Parit",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kedemit",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kubang Palas Dalam",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kutan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kutan Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kutan Hulu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kutan Sungai",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Kutan Tengah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Lambor",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Padang C3 Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Padang Lati",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Padang Pera",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Padang Rokma",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Padang Tok Ku",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Pasir Pekan Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Pasir Pekan Tengah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Paya Pasir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Pondok Lambor",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Semat Jal",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Tok Janggut",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Tok Malek",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kampung Wakaf Delima",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Kutan Tengah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Allbaladi",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Belakang S Falahiah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Kubur@Pusat Kesihatan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Kutan Sungai",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Madrasah",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Lorong Pusara Saga",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Mdt (Wisma)",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Pasar Lama Wakaf Baru",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Pasar Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Pekan Hulu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Perumahan Cina Kampung Baru",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Perumahan Kampung Cina Kampung Baru",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Perumahan Padang Lati",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Pondok Lambor",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Rumah @ Stesyen Ktm",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Kebangsaan Mahmud Mahyudin",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Kebangsaan Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Menengah Falahiah Laki-Laki",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Menengah Maahad Perempuan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Menengah Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Sekolah Rendah Kebangsaan Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Simpang Tiga Chendorong Batu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Adabi",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Bahagia",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Damai",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Delima 1",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Desa Raya Semat Jal",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Kota Kubang Labu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Kulim",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Kutan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Kutan Hilir",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Melati Permai",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Mga Chenderong Batu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Mga Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Mimi",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Nadira",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Padang",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Rostam",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sbj",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sbj Dusun Langgar",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sbj Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sbj Putra Pasir Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Seri Pekan",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Simpura Baru",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Chenderong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Kebakat",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Kebakat Perdana",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Kota (Sbj)",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Langgar",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Mulong",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Sri Palas",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Taman Tanjung",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Wakaf Bharu",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "16250",
+        "Location": "Wisma Mtd-2",
+        "Post_Office": "Wakaf Bharu",
+        "State": "Kelantan"
+    }
+]

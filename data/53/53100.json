@@ -1,0 +1,560 @@
+[
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Simpang Tiga ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Setia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Klang Gate ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Sungai Chinchin",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Tengah Gombak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Bukit Lela",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Desa Makmur",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Halamanda (Gombak)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Hevea Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Sungai Salak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Tengah Lembah Gombak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Medan Idaman",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Prima Villa",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Saujana Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Sunway Montana ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Desa Gemilang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Mutiara Gombak 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Permai Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Perwira ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Perwira Indah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Rawiyah Sulaiman Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Sepakat ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Tiara Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Twin Palm Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan K7 (Taman Melawati)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Persiaran Contours",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Contours",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Persiaran Nadayu 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Nadayu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Persiaran Kontur",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Melawati Kontur",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Desa Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Kontur Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Lingkaran Tengah Ii",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Persiaran Melati Kuarza",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Taman",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pusat Komersial Gaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Universiti Islam Antarabangsa (Uia)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Sunway Puncak Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pusat Bandar Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pangsapuri Sri Harmonis",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Bayu Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Alang Sedayu Resort",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Gombak (Batu 5 - 13)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Gombak Setia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jabatan Hal Ehwal Orang Asli Gombak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan 2/21D",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Desa Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Intan (Gombak)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Madrasah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Melati Indah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Mutiara 9",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Mutiara Utama",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Sekolah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Jalan Tumbuhan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Changkat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Genting Klang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Gombak Setia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Kerdas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Lee Kong Chan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Setia Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Kampung Sungai Pusu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Km 11 Jalan Gombak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Lorong Kedah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Lorong Perak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Lorong Selangor",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Melawati Urban 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Mount Estate",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pangsapuri Gaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pangsapuri Mutiara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Pinggiran Mutiara Utama",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Riverview Kemensah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Bukit Mas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Bukit Sentosa",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Cemerlang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Desa Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Gombak Indah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Gombak Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Gombak Ria",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Gombak Setia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Harmonis",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Ibukota",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Kamariah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Kenangan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Mastika",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Melati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Melati Utama",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Melawati",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Melawati Indah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Mutiara Gombak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Mutiara Gombak 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Sahabat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "53100",
+        "Location": "Taman Seri Setia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    }
+]

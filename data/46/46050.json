@@ -1,0 +1,566 @@
+[
+    {
+        "Postcode": "46050",
+        "Location": "Centre The Highway",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Pusat Perdagangan Amcorp",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Bangunan Universal",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Bukit Menteri Selatan",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Bukit Menteri Utara",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Hospital Assunta",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Barat",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Bukit Menteri Selatan",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Bukit Menteri Utara",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Jelawat",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Kelah",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Kerai",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Kilang",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Lampam",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Lemasiai",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Padang",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Patin",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Ru 7/1",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Selangor",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Sungai Jerneh",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Sungai Jernih 8/1",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Taman",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Tandang",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Tandang Seksyen 51",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Temelian",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Tengas",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Terus",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Tilan",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Toman",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Torbul",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong Assunta",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong Sungai Jerneh",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong Tandang",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Menara Choy Fook On",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Seksyen 8",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/47",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Kawasan Perindustrian Tiong Nam",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan Penchala",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Seksyen 51A",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 200",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 201",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 202",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 203",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 204",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 205",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 206",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 207",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 208",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 209",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 210",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 211",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 212",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 213",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 214",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 215",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 216",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 217",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/47A",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/48",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/49",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/50",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/51",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/52",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/53",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/54",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 4/54B",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/1",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/10",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/11",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/12",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/13",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/14",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/15",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/16",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/17",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/18",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/19",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/1B",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/2",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/20",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/3",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/4",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/4D",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/5",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/6",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/7",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/8",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Jalan 8/9",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong  200A",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong  204B",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong Assunta  A",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Lorong Assunta  B",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Seksyen 4",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "46050",
+        "Location": "Seksyen 51",
+        "Post_Office": "Petaling Jaya",
+        "State": "Selangor"
+    }
+]

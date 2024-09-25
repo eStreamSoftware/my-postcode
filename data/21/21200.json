@@ -1,0 +1,734 @@
+[
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Batu Enam",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Lubuk Batu ",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Padang Macang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tengah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Jaya",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Air Lilih",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Nenasi",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Petiti",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Padang Hangus",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Wakaf Gomok",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanjung Sabtu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Seberang Bukit Tumbuh",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kebor Air",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pondok Lalang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Binjai Manis",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Chepoh",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Hujung Tanjung ",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kubang Bujuk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Manir",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pagar Ubi",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Paya Lima Amas",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanjung Bunut",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Alor Terbo",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Baloh",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Donas",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Peradung",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Agu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Berangan",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Canggong",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Wan",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Buluh Gading",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Gong Linggi",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kesom Haji Hussin",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kesom Tok Jang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Lingai",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Mesah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pulai Baru",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Seberang Bukit Tunggal",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanah Lot Manir",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tegaru",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tok Jiring",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tuan Mandak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Wakaf Mesira",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Biji Sura",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Murni",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Putera",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Tanjung Permai",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Terbauk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Impian Murni",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Kalongan Murni",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Manir Indah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Semarak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Sri Manir",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Sri Tebauk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Sri Terbauk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Aman",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Lawang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Tadok",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Getang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Naga Mengulor",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pulau Manis (Kuala Telemong)",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanjong Mesah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tok Iman Lapar",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kedai Manir",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kesom",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kesom Che Nordin",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kesom Padang Tambak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kota",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kuala Belara",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kubang Ikan",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kubang Jela",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kubang Tepak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Masjid Haji Hussin",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Padang Tenger",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Padang Ujib",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pak Katak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Parit Dicap",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pasir Tebakang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Paya Datu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pelam",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pengkalan Arang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pengkalan Batu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Peradong",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Petai Bubus",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pujuk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Pulau Bahagia",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Seberang Tuan Chik Haji",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Sekati",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Serdang Baru",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanah Lot (Batu 8)",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tanjung Serdang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tebauk",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Telari",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Telok Menara",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Telok Pasu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tetambah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tualang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Belara",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Jalan Kelantan (Km 7 - 13)",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Dama",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Limau",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Manir",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Banggol Tuan Muda",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Baru Tetambah",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Batu Hampar",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Batu Lapan",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Beladau Kolam",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Datu",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Kandis",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Seraman",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Tok Ris",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Bukit Tunggal",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Durian Mas",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Dusun Pinang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Dusun Tembakan",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Gong Kijang",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Gong Pak Damak",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Gong Sentol",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Jeram",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Kebor Besar",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Kampung Tok Harun",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21200",
+        "Location": "Taman Desa Permai",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Postcode": "98800",
+        "Location": "Kampung Baru",
+        "Post_Office": "Sundar",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "98800",
+        "Location": "Kampung Aru",
+        "Post_Office": "Sundar",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "98800",
+        "Location": "Kampung Awat-Awat",
+        "Post_Office": "Sundar",
+        "State": "Sarawak"
+    },
+    {
+        "Postcode": "98800",
+        "Location": "Sundar",
+        "Post_Office": "Sundar",
+        "State": "Sarawak"
+    }
+]

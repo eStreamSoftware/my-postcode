@@ -1,0 +1,578 @@
+[
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Parit",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Juasseh Seberang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Bukit Indah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Bemban",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Damai",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Rasa Sayang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Sentosa",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Suria",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Telok",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Bukit Intan",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Bukit Mutiara",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Permai",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Selasih",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Wawasan",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Bukit",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Jawa",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Batang Pilah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Batu 26 (Jalan Bahau)",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Batu 30",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Batu 46",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Batu Meraong",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Beting",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Bukit Temensu",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Cheriau",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Dioh Besar",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Dioh Kecil",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Gachong",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Gemuruh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Gentam",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Jemapoh Tengah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Juasseh Tengah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Kuala Dioh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Kuala Sungai Dua",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Kuala Sungkak",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Lanjut Mati",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Melang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Parit Tinggi",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pasir Ambor",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pelangai",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pelangai Hilir",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pelangai Ulu",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Peraku",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pilah Tengah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Pulau Pandan",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sawah Lebar",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Senaling",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sungai Dua Besar",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sungai Dua Kechil",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sungai Tawang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sungkak",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Sungkak Pinggir",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Tanah Melintang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Tanjung Jati",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Tebat Kering",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Terap",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Ulu Muar",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Ulu Pilah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kuala Pilah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Ladang Kuala Pilah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Rumah Rakyat Batu 46",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Rumah Rakyat Pelangai",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Rumah Rakyat Selaru",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Rumah Rakyat Senaling",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Seberang Ampang Batu",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Ampang Tinggi",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Angkasa Jaya",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Bahagia Delima",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Bukit Pilah Perdana",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Chin Joo",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Cita Jaya",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Desa Aman",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Desa Melang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Desa Permai Selaru",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Dioh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Fatimah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Gemilang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Hang Guan",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Impian",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Impian Utama",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Kuala Pilah",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Maasof",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Perpaduan Height",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Pilah Jaya",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Rasa Sayang Selaru",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Senaling",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Sima",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Suria Dioh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Waja",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Baru Jemapoh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Bukit Seberang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Juasseh Kapitan",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Nesa Jaya",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Wira Jaya",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Acheh",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Kampung Perigi Jernih",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72000",
+        "Location": "Taman Cemerlang",
+        "Post_Office": "Kuala Pilah",
+        "State": "Negeri Sembilan"
+    }
+]

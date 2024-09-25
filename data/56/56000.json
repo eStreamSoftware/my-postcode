@@ -1,0 +1,776 @@
+[
+    {
+        "Postcode": "56000",
+        "Location": "Taman Damai Impian",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Desa Bukit Cahaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Ikhsan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Oasis",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Orkid Desa",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Sri Bahagia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Taynton View",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Tenaga ",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 1/90 E",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 1/90 G",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 2/90 E",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 2/90 G",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 3/90 E",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 3/90 G",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 4/90 E",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 4/90 G",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan 5/90 G",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tiram 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tiram 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tiram 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Budiman 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Budiman 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Budiman 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Budiman 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Danau Lumayan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Pusat Perniagaan Danau Lumayan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Damai Perdana 6/1F",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Damai Perdana 9/2A",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Bukit Prima",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "The Peak, Taman Bukit Prima",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Manda'Rina Damai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Mewah 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Amber Business Plaza 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Jelawat 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Plaza Amber Suria",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Kondominium Bukit Cheras",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Medan Connaught",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Maxim Alam Damai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Residensi M Vertika",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Residensi Majestic Maxim",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Mandarina Damai 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Damai Niaga",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Damai Perdana 2/7D",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Suria Industrial Park",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Oasis 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Jelawat 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Connaught",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Vila 33 Cheras",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Pangsapuri Astana Lumayan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Midah 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Alam Damai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Bandar Damai Perdana",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Bandar Sri Permaisuri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Bandar Tasik Permaisuri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Bandar Tun Razak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Bukit Mandarina",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Desa Tun Razak",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jabatan Pentadbiran Awam Hospital Universiti Kebangsaan Malaysia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Bangsawan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Budiman",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Chekap",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Connaught",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Dato Haji Harun",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Ikan Emas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Nadchatiram",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sebarau",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sekilau",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Selimang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Seluang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sembilang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sempilai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sengaring",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siakap",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Siput Akek",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Sri Permaisuri 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tasik Permaisuri 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tasik Permaisuri 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tenteram",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tenteram 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Jalan Tiram",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Kompleks Belia Antarabangsa",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Kondominium Cengal",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Laman Oasis Cheras Utama",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lingkungan Ikan Emas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Lorong Ikan Emas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Rumah Pangsa Sri Johor",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Rumah Pangsa Sri Melaka",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Rumah Pangsa Sri Pulau Pinang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Rumah Pangsa Sri Sabah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Stadium Badminton",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Alam Damai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Angsana (Cheras)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Billion",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Bukit Anggerik",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Bukit Angsana",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Bukit Cheras",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Bukit Hijau",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Bukit Prima",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Cheras Mewah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Dahlia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Damai Impian 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Damai Indah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Delima",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Desa Baiduri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Desa Cheras",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Ikan Emas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Jaya Baru",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Len Seng",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Midah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Minang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Mulia",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Mutiara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Mutiara Barat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Seri Cendekia (Connaught)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Suet Chow",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Suria Jaya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "56000",
+        "Location": "Taman Tayton View",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    }
+]

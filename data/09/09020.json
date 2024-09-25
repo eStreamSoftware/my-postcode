@@ -1,0 +1,38 @@
+[
+    {
+        "Postcode": "09020",
+        "Location": "Kampung Kuala Nau",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "09020",
+        "Location": "Kampung Selarong Malau",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "09020",
+        "Location": "Bukit Hijau",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "09020",
+        "Location": "Kampung Keda Malau",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "09020",
+        "Location": "Kampung Terus Gading",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "09020",
+        "Location": "Taman Sena",
+        "Post_Office": "Kulim",
+        "State": "Kedah"
+    }
+]

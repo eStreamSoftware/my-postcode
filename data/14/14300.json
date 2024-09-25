@@ -1,0 +1,3638 @@
+[
+    {
+        "Postcode": "14300",
+        "Location": "Kerian Kedah Estate",
+        "Post_Office": "Nibong Tebal\r\n",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ampang Jajar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ayer Lintas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Bagan Buaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Bukit Panchur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Byram Estate",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Changkat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Changkat Baroh",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Dato Keramat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Gerbang Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Halaman Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Air Lintas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Atas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bagan Buaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bayan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bayan Kecil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Belatuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Besar Nibong Tebal",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Besar Sungai Kecil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Beseri 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bukit Changkat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bukit Pancur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Buntar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Byram",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Che Ahmad",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Datok Keramat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Fajar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Fajar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Gharry Kuchi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Ilmu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Ilmu 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Kampung Arjunan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Kampung Telok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Kelicap",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Keramat Jaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Keruing",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Kilang",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Klinik",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Lengkok Bayan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Merbah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Merpati",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Merpati Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Nibung Tebal Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Ooi Kar Seng",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Panchor Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Pasar Lama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Penghulu Hamid",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Permatang Tok Mahat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Pipit",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Punai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Rajawali",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sekolah Sungai Kechil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Serandau",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Acheh",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Acheh 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Bistari",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Emas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Emas 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Seri Pancor",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Serindit",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sinar 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sintar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sintar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sungai Daun",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Telok Ipil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Tempua",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Terkukur 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Terkukur Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Tiong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Transkrian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Verappen",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kalidonia Estate",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kalodinia Estate",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Balai Lama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Baru Sungai Buaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Belakang Pekan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Bukit Changkat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Changkat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Che Isa",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Che Minah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Haji Omar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Haji Saad",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Hamid",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Kebun Baru Byram",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Kepala Batas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Kilat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Nanas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Penghulu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Penghulu Hamid",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Pinang",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Sanglang",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Selesa",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Sungai Air Itam",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Tong Hai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Transkrian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Victoria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kebun Baru Byram",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Krians Estate",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ladang Byram",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ladang Changkat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ladang Trans Krian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ladang Victoria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Belatok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Merpati 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Murai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lebuh Terkukur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Merpati",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Murai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Tempua",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Undan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bayan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Boon Aun",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Fajar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Ilmu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Nuri 1/1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pancur Permai 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Rajawali",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Pancur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Serindit",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Tiong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Undan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Victoria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Medan Murai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Medan Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Medan Terkukur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Nibong Tebal",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Pekeliling Belatok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Pekeliling Kenari",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Permatang Keling",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Permatang Tok Mahat",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Pintu Sepuluh",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Seri Ampangan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Keruing",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Merpati",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Murai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Seri Emas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Undan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Sri Ampangan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Sungai Buaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Sungai Kecil Estate",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Sungai Kecil Hilir",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Sungai Kecil Village",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bahagia",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Belatuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bersatu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bersatu Baru",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Berseri",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bukit Panchor",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bukit Panchor Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Buntar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Camar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Cenderawasih",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Cenderawasih Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Cowin",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Fajar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Ferda",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Golden Jade",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Harapan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Harapan Lama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Helang Jaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Helang Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Ilmu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Industri Bukit Panchor",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Industri Nibong Tebal",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Keramat Jaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Kheng Hong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Khong Hong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Kit Seong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Merbah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Merbah Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Merbok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Minamah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nibong Tebal",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nibong Tebal Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nibong Tebal Jaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nuri",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Panchor Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Pancur Mutiara",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Pancur Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Pancur Utama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Peng Wah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Penting",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Perindustrian 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Perindustrian Nibong Tebal",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Rantau Damai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sempadan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Serandau",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Acheh",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Bayu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Intan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Maju",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Pancur",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sinar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sintar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sintar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sri Emas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Suria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Terkukur Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Trans Kerian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Weng Tee",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merbuk",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Tempua",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Nuri",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Baru",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Besar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Cina",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Telok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Tempua 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Bistari",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nuri Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sentosa",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Emas",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Tempua",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Titi Timbul",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Medan Ilmu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Pangsapuri Desa Siswa Utama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Ilmu",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bangau 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Bangau 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 16",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 17",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 18",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 19",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 20",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Cenderawasih 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Changkat 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Changkat 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Harapan 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Ilmu 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 16",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 17",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 18",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 19",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 20",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Ilmu 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Tiong 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lintang Tiong 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Belatuk 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bistari 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Bukit Panchur 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Buntar Indah 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Camar 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Fajar 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Fajar 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Fajar 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Helang Permai 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Ilmu 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Ilmu 18",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Keruing 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Keruing 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbah Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbah Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merbah Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Merpati Indah 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Murai 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Nuri 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Nuri 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Nuri 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Nuri 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 16",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 17",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 18",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 19",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 20",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 21",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 22",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 23",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 24",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 25",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Indah 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Panchor Mutiara 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Acheh 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Bistari 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 16",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 17",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 18",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Seri Emas 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sinar 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 13",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 14",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 15",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sintar Indah 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Daun 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Daun 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Daun 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Kecil 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Kecil 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Sungai Kecil 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Tempua 1/1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 12",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Terkukur Indah 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 10",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 11",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Persiaran Pipit 9",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Ilmu 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Terkukur 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Solok Terkukur 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Kedidi 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Kedidi 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Kedidi 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Kedidi 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Merpati 7",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Murai 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Murai 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Murai 6",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Murai 8",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Tiong 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Tiong 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Tiong 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Undan 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Tingkat Undan 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Estate Transkrian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Ladang Kerian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Residensi Merbok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Belatok",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Camar Jaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Desa Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Fajar Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Idaman Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Keramat Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Kit Siong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Nibong Indah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Panchor Mutiara",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Pancor Utama",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Ping Wah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Seri Bistari",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sungai Kecil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Transkrian",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Victoria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Wee Tee",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Teluk Ipil",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Besar",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Industri",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Jaya 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Jaya 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Kedidi",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Merbah",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Sempadan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Padang",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Belibis",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Mutiara",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Selesa",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sri Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Jalan Victoria",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Kampung Pengkalan",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lengkok Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pekaka 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pekaka 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pekaka 3",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pekaka 4",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Pekaka 5",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Permai 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Permai 2",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Lorong Tempua 1",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Berjaya",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Pekaka",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Permai",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "14300",
+        "Location": "Taman Sri Nibong",
+        "Post_Office": "Nibong Tebal",
+        "State": "Pulau Pinang"
+    }
+]

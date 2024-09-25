@@ -1,0 +1,962 @@
+[
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Api-Api",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Bank Negara",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Bfo",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Centre Point",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Dewan Bandaraya Kota Kinabalu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Dewan Masyarakat Kota Kinabalu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Feri Terminal",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Hong Kong Bank",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Indra Sabah",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Kinabalu Club",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Kk Plaza",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Pasar Besar Kota Kinabalu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan S.T.P.C",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Safma",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Wawasan Plaza",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Central Building",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Chinese Chamber Building",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Elas-Elas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Hong Dua",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Hong Satu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Hotel Le Meridien",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Hyatt Regency Hotel",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 12",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 13",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 14",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 15",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 16",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 2",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 20",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 21",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 22",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 23",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 24",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 3",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 4",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 5",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan 6",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Albert Kwok",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Api-Api",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Balai Polis",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Balai Polis Lama",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Bandaran",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Bandaran Berjaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Asia City",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Bangunan Mpkk",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Centre",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Datuk Chong Thian Vun",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Deasoka",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Gaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Haji Samad",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Haji Saman",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Haji Yaakub",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Ibu Pejabat Berjaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Jati",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Kebijakan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Labuk",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Ladang",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Lapan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Lee Tet Phui",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Liman Diki",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Masjid Lama",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Merdeka",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Padang",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Padas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Pantai",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Pasar",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Pasar Baru",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Pengiran Fatimah",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Perpaduan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Perpustakaan Negeri",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Salleh Sulong",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Satu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sebelas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Segama",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Segumting",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sembilan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sembilan Belas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sentosa",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sepuloh",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sinsuran",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Sugut",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tan Beng Hing",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tanjung Lipat",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Timbuk",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tuanku Abdul Rahman",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tugu",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tujuh",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tujuh Belas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Tun Razak",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Kampung Air",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "King Park Hotel",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Kompleks Asia City",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Kompleks Sedco",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Kompleks Segama",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Kompleks Sinsuran",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lebuhraya Pantai Baru",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong 6",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong 7",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Api-Api",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Bahasa",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Bakau",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Bank",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Berjaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Dewan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Ewan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Gumantung",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Haji Ahmad",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Haji Yaakub",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Jati",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Khidmat",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Lapan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Merdeka",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Pasar Baru",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Pelabuhan A",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Sagunting",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Sembilan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Sembilan Belas",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Sinsuran",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong T3",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Yakin",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Marina Court",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Menara Jubli",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Menara Maa",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Menara Mbf",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Pengkalan Polis Marin",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Promanade Hotel",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Pusat Kraftangan Filipina ",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Ruang Tiong Hwa",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Shangrila Hotel",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Tang Dynasty Hotel",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Warisan Square",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Bandaraya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Budaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Dang Bandang",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Fook Loi",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Gek Poh",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Great Eastern Life",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Inti Utama",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Kk",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Merdeka",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Pendidikan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Perkasa",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Sabah",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Sedco",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Takada",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Twb",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Yakim",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Berjaya 1",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Berjaya 2",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Berjaya 3",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Perpaduan A",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Perpaduan B",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Ruang Sinsuran 1",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Ruang Sinsuran 2",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Ruang Sinsuran 3",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Ruang Sinsuran 4",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Bakau",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Jalan Pelabuhan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Lorong Pelabuhan",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    },
+    {
+        "Postcode": "88000",
+        "Location": "Wisma Gaya",
+        "Post_Office": "Kota Kinabalu",
+        "State": "Sabah"
+    }
+]

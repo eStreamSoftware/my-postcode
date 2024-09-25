@@ -1,0 +1,908 @@
+[
+    {
+        "Postcode": "17200",
+        "Location": "Chabang Empat Salam",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Chabang Tiga Bakat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Besar Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Bukit Raya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Chempaka",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Lubok Setol",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Nik Yusuf",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Padang Majlis Tempatan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Parit Air/Patir Air",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Sekolah Kebangsaan Cina",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Tepi Sungai",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kajan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Air Teniat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Alor Pasir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bagus",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Banggol Kekabu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Banggol Mek Pit",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Banggol Merbo/Banggol Chekor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Banggol Ubi Keling",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Baroh Piah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Baru Bechah Kaki",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bendang Pendekar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bendang Sega",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Berek Pak Tua Long",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bukit Garu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bukit Pak Junuh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bukit Saji",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bukit Sukar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bukit Tandak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Che Doah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Che Doah Barat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Dangar (Rantau Panjang)",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Degong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gertak Anak Buaya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gertak No 3",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gua Kok Batu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Arang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Badak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Bunut",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Kemunting",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Ketil Baroh Pial",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Mekong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Melitang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Mesa",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Nering",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Nibong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Pasir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Pasong Hantu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Periok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Petai Berok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Petai Salak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Sitok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Sok Sek",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Tinggi",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Tok Deh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Gual Tulang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kedap",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kedup",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kok Batu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kok Kieh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kok Pauh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kuala Itik",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kubang Gabus",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kubang Kual",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kubang Puyuh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kubang Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kuin Merah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kusar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Luar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Luar Gual Periok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Lubok Gong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Lubok Hilir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Lubok Itek",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Lubok Stol",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Padang Bukit",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Padang Lichin",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Padang Nyior",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Parit Ayer",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Pasir Padang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Pasir Puteh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Pohon Ara",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Pohon Setol",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Pusu Sireh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Putut Tujoh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Rahmat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tandak Liang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tanjung Baru",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tanjung Sepat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Bakong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Cina",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Godang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Hulu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Permai/Hilir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek Tandak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasik Bintang Gucil",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasik Garu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasik Murning",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Telaga Mas",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tersan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tok Dah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Ubi Keling",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kedai Lama",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Klinik Kesihatan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kompleks Upp",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kuala Itek",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Lorong Celcom",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Lorong Pak Su Omar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Lorong Pasir Padang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Pasar Besar Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Pasar Kuda",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Pejabat Penggawa",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Perkedaian Baru Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Perumahan Kastam Taman Rogayah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Agama Banggol Kulim",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Arab Al-Fauziah Banggol Kulim",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Kebangsaan Gual Periok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Kebangsaan Gual Sitok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Kebangsaan Kok Pauh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Kebangsaan Lubuk Stol",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Kebangsaan Rahmat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Menengah (Agama) Kampung Bharu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Menengah Gual Periok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Sekolah Menengah Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Simpang 4 Salam",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Bakti Perumahan Polis",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Hakim",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Kobra",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Nering Jaya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Prima Indah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Rantau Baru",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Rantau Jaya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Rantau Mas",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Sc Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Seri Rantau",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Tasik",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Tasnim",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Wahyu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Warta",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Tasek China",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bakat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Banggol Kulim",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Kubang Siput",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Limau Purut",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Jalan Hulu Pasar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Atas Tandak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Baru",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Bendang Ikan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Tasek",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Kampung Terusan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "17200",
+        "Location": "Taman Permai",
+        "Post_Office": "Rantau Panjang",
+        "State": "Kelantan"
+    }
+]

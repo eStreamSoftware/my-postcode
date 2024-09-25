@@ -1,0 +1,884 @@
+[
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bilis 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bilis 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bilis 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Chenderai 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Chenderai 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Chenderai 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taban 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taban 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taban 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taban 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 7",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 8",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi 9",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis Kiri 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis Kiri 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 7",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik 8",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Ara Kiri 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Ara Kiri 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Ara Kiri 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Bukit Pantai 7",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kemaris 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taban 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taban 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taban 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 4",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 5",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 6",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai 7",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tempinis Kanan 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tempinis Kanan 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tempinis Kanan 3",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tempinis Kiri 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tempinis Kiri 2",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Riong",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Ru (Pantai Baru)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Senangin",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Sepat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taban",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Taman Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tandok",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Telawi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis Kanan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tempinis Kiri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tenggiri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Terasik",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Tualang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Turi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Kompleks Sukan Bangsar",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lingkungan Budi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Ara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Chenderai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Ilmu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kaloi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Kurau",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Medang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Riong",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Taman Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Tenggiri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Terasik 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Terasik Kanan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Universiti",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Lorong Universiti  A",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Persiaran Ara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Persiaran Ara Kanan",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Persiaran Ara Kiri 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Persiaran Medang Utara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Persiaran Terasik",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Pusat Perubatan Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Taman Bandaraya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Taman Bukit Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Taman Lucky (Bangsar)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Zhen Bukit Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Pangsapuri Ken Bangsar",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Residensi 6 Kapas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Bangsar Baru",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Bukit Bandaraya",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Bukit Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Cangkat Riong",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Hospital Universiti",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Institut Diplomasi \u0026 Hubungan Luar Negeri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan 1/80C",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Api",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Ara",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Ara Kiri",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bangkong",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bawal",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Bukit Pantai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Changkat Pantai 1",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Elmu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Faraday",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Ilmu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Jejawi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kaloi",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kapas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kawat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kemaris",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Keruing (Pantai Baru)",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kesedang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kilat",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kipas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Kurau",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Liku",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Mambu",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang Kapas",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang Kunyit",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang Payong",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang Serai",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Medang Tandok",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Menerung, Bangsar",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Panah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Pantai Endah",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Penaga",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    },
+    {
+        "Postcode": "59100",
+        "Location": "Jalan Piring",
+        "Post_Office": "Kuala Lumpur",
+        "State": "WP Kuala Lumpur"
+    }
+]

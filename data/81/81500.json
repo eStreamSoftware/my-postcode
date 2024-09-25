@@ -1,0 +1,536 @@
+[
+    {
+        "Postcode": "81500",
+        "Location": "Taman Puteri",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Jaya",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Kubur",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Parit Kassim",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sawah",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sri Menanti",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Gemilang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Bahagia",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Melayu Raya",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Impian",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Sentosa",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Batu 25",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Perindustrian Pekan Nenas 1",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Desa Baru",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Abu Bakar Majid",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Besar Sh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Pasar Lama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Pontian Lama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Sawah",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Syabas",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Air Puteh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Bahagia Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Bakar Arang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Baru Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Haji Adnan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Jeram Batu",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Maju Batu 4",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Melayu Bukit Panjang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Melayu Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Pak Khalid",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Pang Meng Estate",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Parit Pasir Lama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Paya Embun",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Pengkalan Raja",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Selekoh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sepakat Jaya",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Seri Bukit Panjang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Seri Gambut",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Seri Kenangan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sinar Harapan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sri Gambut",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sri Warisan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sungai Burung",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Ibs Industrial Park",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Bukit Panjang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Maju Jaya",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Hidayat",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Jalan Panggung Wayang",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Baru",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Batu 26",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Batu 28",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Desa Baru",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Jaya Sepakat",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Bahagia",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Intan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Mewah",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Pelangi",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Ria",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Suria",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Tuah",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Utama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Sungai Molek",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Wak Musa",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Kampung Warisan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Ladang Getah Gunung Pulai",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Ladang Greet Wall",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Ladang Sungai Burung",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Lorong Warisan (Batu 29)",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Parit Haji Adnan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Parit Pasir Baru",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Parit Pasir Lama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Parit Selangor Baru",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Parit Selangor Lama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Pekan Nenas",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Pub Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Sungai Moleh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Sungai Tempayan",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Bunga Teratai",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Desa Putra",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Emas Merah",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Hidayat Utama",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Seasin",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Damansara",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Kota",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Sri Pekan Nenas",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Syabas",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Taman Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "81500",
+        "Location": "Ulu Choh",
+        "Post_Office": "Pekan Nenas",
+        "State": "Johor"
+    }
+]

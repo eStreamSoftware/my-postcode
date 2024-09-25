@@ -1,0 +1,836 @@
+[
+    {
+        "Postcode": "70200",
+        "Location": "Bukit Jong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bukit Kaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bukit Limbok",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bukit Lobak",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Dawn Estate",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Hillside Estate",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Dato Abdullah",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Dato Kelana Maamor",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Haji Abdul Hamid",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Han Hui Foong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Kilat",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Kuala Lumpur ",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Kwang Tong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Labu",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Labu Lama",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Lam Teck Choon",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Lt. Adnan",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Manickavasagam",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Muthu Cumaru",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Off Keng Heng",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Off Tun Dr Ismail",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Quek Kai Dong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Sawmill",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Seng Meng Lee",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Sentul",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Sungai Ujong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Temiang Lama",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Tun Dr Ismail",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Ulu Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Veloo",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Yazid Ahmad",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Baru Bukit Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Baru Templer",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Baru Ulu Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Kepayang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Kin Ching",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Lobak",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Melayu Ulu Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Penghulu",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kemayan Square",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kondo Bukit Kaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Permata Villa Kondo",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Seri Kenangan",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Ast",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bangawan",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Berlian",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Galena",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Jade",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Kaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Kelisa",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Kepayang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Kristal",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Labu",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Markisa",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Mika",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Sentosa",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Cheng Shiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Chip Aik",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Cuepacs",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Desa Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Harmonium Indah",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Jasper",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Jaya Mas",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Kepayang Baru",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman King Wong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Kong Heong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Koop",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Kotamas",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Kwan Tong",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Labu Jaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Labu Utama",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Ladang Dawn / Bukit Dawn",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Lam Teck Choon",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Lucky Height",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Makmur",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Mon'T Jade",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Mutiara Galla",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Nee Yan",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Oakland",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Permata",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Seni Budaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sentosa Baru",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Seruling Jaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Serunai Indah",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Setosa Baru",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sri Amber",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Templer",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Tuanku Abd Rahman",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Union",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Yoon Seng",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Templer Terrace",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Rimbun Kiara",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Ekar",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Permata 1",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Residensi Karisma",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Arena Seremban",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Harmonium Utama",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Baiduri",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sentosa",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Suria",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Intan",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Mutiara",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Permai",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Saga",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sri Pinang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Pusat Komersial Lobak",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Era Square",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Jasper Jaya",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Sapphire",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Pusat Komersial Lobak 1",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Pusat Perniagaan Gerbang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Belimbing Perdana",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Termiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Perindustrian Galla",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bayu Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kepayang Central",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Nilam Sari",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Dato Mohd Said",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Kampung Ulu Temiang",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Delima",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Desa ",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Zamrud",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Duyung",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Jed Villa",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sri Bukit Jade",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Sri Labu",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Bukit Dawn",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bandar Ainsdale",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Bukit Chemara",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Belian Tropika",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Jalan Anggun",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Residensi Prima Seremban Utara",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Tun Dr Ismail",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Pusat Komersial Oakland 2",
+        "Post_Office": "Seremban ",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Permai 1",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Permai 2",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "70200",
+        "Location": "Taman Permai 3",
+        "Post_Office": "Seremban",
+        "State": "Negeri Sembilan"
+    }
+]

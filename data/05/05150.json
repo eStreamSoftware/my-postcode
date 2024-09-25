@@ -1,0 +1,626 @@
+[
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Terus",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Rakyat",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Alor Melintang Anak",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Bangunan Asas Jaya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Flat Tok Batin",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Gunung Sali",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Emas",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Gangsa",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Kampung Berjaya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Lengkongan Barat",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Pendidikan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Perak",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Putera",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Putih",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Seberang Putera Kanan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Seberang Putera Kiri",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Seberang Terus",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Teluk Yan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Tembaga",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Tuanku Abdul Rahman",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Jalan Utara",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Berah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Gunong",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Madi",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Melintang",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Pasir",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Pea",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Gunung Sali",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Gunung Sau",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Kelompang (Mergong)",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Kilang",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Legar Pantai Johor",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Lubok Peringgi",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Pulau Kerengga",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Anak Bukit",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Kelompang",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Nyonya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Pantai Johor",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Seberang Pumpong",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Simpang Empat Gunong",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Suka Menanti",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Sungai Baru",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Sungai Baru Hilir",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Sungai Baru Tengah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Tanjong Bedil",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Tanjung",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Tok Ku Kiah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Wadilhana",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kompleks Perniagaan Utama",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Lorong Emas",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Lorong Kampung Berjaya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Lorong Perak",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Mergong",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Mukim Pumpung",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Seberang Cegar",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Seberang Jalan Putera",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Seberang Putra",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Seberang Tambang Badak",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Sungai Baru Gunung",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Sungai Baru Tengah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Sungai Baru Tok Keramat",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Aman",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Barat",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Desa Impiana",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Emas",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Industri Ringan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Kelisa",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Kelisa Emas",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Kenanga",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Kita",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Mahawangsa",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Merah Jambu",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Mergong Indah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Mergong Jaya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Pandan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Pemodal",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Rakyat (Seberang Jalan Putra)",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Seberang (Jalan Putra)",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Selatan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Selayang",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Seri Empangan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Seri Indah (Mergong)",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Sri Puyu",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Talapia",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Thean Peng",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Timah",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Tunku Jabor",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Utama",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Tanjong Bedil",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Mempelam",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Alor Melintang Gunung",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Padang Perak",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Teluk Yan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Berjaya",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Chegar",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Kampung Jerangan",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Desa Anggerik",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Pelangi",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Senangin",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Seri Impian",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Seri Menanti",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Serampang 1",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Serampang 2",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    },
+    {
+        "Postcode": "05150",
+        "Location": "Taman Bawai",
+        "Post_Office": "Alor Setar",
+        "State": "Kedah"
+    }
+]

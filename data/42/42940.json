@@ -1,0 +1,20 @@
+[
+    {
+        "Postcode": "42940",
+        "Location": "Pulau Ketam",
+        "Post_Office": "Pulau Ketam",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "42940",
+        "Location": "Pulau Lumut",
+        "Post_Office": "Pulau Ketam",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "42940",
+        "Location": "Bagan Sungai Lima",
+        "Post_Office": "Pulau Ketam",
+        "State": "Selangor"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Kebun Sayor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Lalang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Merbau",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Paya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tebing Tinggi",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Simpang Tiga",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Batu 7",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Lubok Pusing",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Simpang Empat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tua",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Banggol Jas",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Belukar Hantu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Bukit Torak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Felcra Sumpit Beras",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Jalan Jps Sungai Bedarah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Jalan Lubuk Gajah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Anak Sungai Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Banggol Jas",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Baru (Bukit Penyengat)",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Batu Enam",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Batu Tujoh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Bukit Bertam",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Bukit Bertingkat",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Bukit Sungai Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Bukit Torak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Chin Ah Lau",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Chin Ah Low",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Dakwah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Damak Hilir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Garok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Kuala Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Kuala Sungai Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Lubok Buaya",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Lubok Long",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Padang Kering",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sumatera",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sumpit Beras",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Basong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Bayor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Bedarah (Jalan Jps)",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Kerong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Kuning",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Sungai Setar",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tanjong Lengkong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tapah Hulu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tapah Tengah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Telok Garok",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Telok Mas",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Telok Tapah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah (Ulu Mengkuang)",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah Bukit Bertam",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah Tanjong Lengkong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tengah Ulu Mengkuang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Tok Mat Shah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Ulu Damak",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Ulu Kepong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Ulu Lengkong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kampung Ulu Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kebun Sayor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Kuala Sungai Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Padang Kering",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Rantau Panjang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Selama (Km 154 - 158)",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sumpit Beras",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Ayer Kuning",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Bayor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Bedarah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Bedarah Hilir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Bedarah Hulu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Bedarah Ulu",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Kuning",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Rambutan",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Rambutan Tengah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Sungai Siputeh",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Tanjung Lengkong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Tapah Hilir",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Tapah Tengah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Teluk Tapah",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Ulu Kerong",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Ulu Mengkuang",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "34140",
+        "Location": "Ulu Nor",
+        "Post_Office": "Rantau Panjang",
+        "State": "Perak"
+    }
+]

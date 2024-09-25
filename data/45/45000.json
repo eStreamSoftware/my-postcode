@@ -1,0 +1,722 @@
+[
+    {
+        "Postcode": "45000",
+        "Location": "Taman Seri Mengkuang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bagan Sungai Yu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bandar Baru Kuala Selangor",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bandar Malawati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Lubuk Jaya",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Sri Makmur",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Telok Piah",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Ladang Bukit Talang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Medan Niaga Kuala Selangor",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bayu Alam",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bayu Malawati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Botanic",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bukit Belimbing Indah",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Kuala Selangor Jaya",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Kuala Selangor Permai",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Kuala Selangor Utama",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Malawati Cergas",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Malawati Jaya",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Malawati Utama",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Mawar Putih",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Meranti",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Paduka",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Raja Musa",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Rhu Permai",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Seri Belimbing",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Seri Bendahara",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Sri Penambang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Temenggung",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Yayasan",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bagan Beting Kepah",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bagan Tanjung Keramat",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Eng Hong Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Bagan Tanjung Keramat",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Bandar Baru",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Batu Burok",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Bayu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Cengal",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Daeng Chelak",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Jentayu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Kelinik",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Klang (Batu 2)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Laksamana",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Medan Perwira",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Melati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Perusahaan",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Jalil",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Mahadi",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Musa",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Nala",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Yaakub",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Sekolah Sultan Abdul Aziz",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Semarak",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Stadium",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Sultan Ibrahim",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Tanjung Karang (Batu 2)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kamasan Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Bagan Pasir Penambang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Bharu Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Maamor",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Pasir Penambang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Permatang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Raja Musa",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Tanjong Keramat",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Telok Piai",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Tengah Permatang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Ujong Permatang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kota Alam",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kuala Selangor",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Ladang Inchamaran",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Lapan Utan Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Lorong Tenggiri",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Pasir Penambang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Raja Musa Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Riverside Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Sungai Kalkati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Sungai Yu Surau 1",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Batu Hampar",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Belimbing Indah",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bendahara",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bentara",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bukit Gemilang",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bukit Gemilang (Paduka)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Desiran",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Desiran Melawati ",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Jaya ",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Keledang (Laksamana)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Kuala Selangor (Penggawa)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Laksamana",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Laksamana (Fasa 2)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Melor",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Meranti Jaya",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Pahlawan",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Panglima Putih",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Penggawa",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Raja Musa (Batu 8)",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Rhu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Saujana Melawati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Sirambai",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Tan Sri Manickavasagam",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Telaga Tujuh",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Tenggiri",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Teratai",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Warisan",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Bendahara 1A",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Seksyen 1",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Delima",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Mutiara ",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bayu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Melawati",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Murni",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Abdullah",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Jumaat",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Raja Lumu",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Lorong Selar",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Keretapi Lama",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Klinik",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Jalan Kota",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Bukit Belimbing Estate",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Kampung Bukit Belimbing",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45000",
+        "Location": "Taman Bukit Belimbing",
+        "Post_Office": "Kuala Selangor",
+        "State": "Selangor"
+    }
+]

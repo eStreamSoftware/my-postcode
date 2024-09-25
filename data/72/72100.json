@@ -1,0 +1,632 @@
+[
+    {
+        "Postcode": "72100",
+        "Location": "Taman Bahau Indah",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Khaya",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Sri Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Sri Mahsan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Sri Pelating",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Kuala Pilah",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Cempaka",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Megah",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Melati",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Mutiara",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Rasa Sayang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Angsana",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Jati",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Jaya",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Ksm",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Meranti",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Muhibbah",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Ria",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Saga",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Teratai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Cina",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Batu Bakar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Chu Ward",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Chu Ward Besar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Chu Ward Kecil",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Felda Kepis",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Besar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Dato Amar Menteri",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Gurney",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Lelayang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Mahligai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Menteri Besar (Bukit Kelulut)",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Mewah",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Pasar Baru",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Pegawai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Raja Muda Serting",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Rompin",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Jalan Tampin",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Baru Mahsan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Baru Peladang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Batu Bakar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Bukit Kelulut",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Bukit Laka",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Cacar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Gajah Mati",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Jambu Lapan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Jelai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Kuala Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Kuala Sialang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Mahsan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Padang Lalang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Pakachun",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Peladang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Serting Hilir",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Tebat",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kampung Temeris",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Kuala Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Bahau",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Cheong Wing Chan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Glendale",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Jeram Padang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Kok Poh",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Kuala Jelai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Malika",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Senama",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang St Helier",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Ladang Sungai Sebaling",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Rumah Murah Bahau",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Rumah Murah Batu Bakar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Serting Hilir",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Sungai Chermai",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taisho New Village",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Acbe",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Angkasa",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Awana",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Bahau",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Batu Bakar",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Cemara",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Desa Penarikan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Industri Mahsan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Jempol",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Juara",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Juara Fasa Ii",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Kepayang",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Mahsan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Margosa",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Ria 2",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Serting Jaya",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Setelite",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Sornam",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Tanjung",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Tasik",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Timur",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Tunku Puan Chik",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Tebat",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Temaris",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Pekan Bahau",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Rumah Rakyat Jambu Lapan",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Satelite ",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Kwang Hup",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Taman Kwang Hup 2",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    },
+    {
+        "Postcode": "72100",
+        "Location": "Pusat Perniagaan Ara",
+        "Post_Office": "Bahau",
+        "State": "Negeri Sembilan"
+    }
+]

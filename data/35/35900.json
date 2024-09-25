@@ -1,0 +1,578 @@
+[
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Besar",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Sekolah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Sentosa",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Simpang Ampat",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Rumah Awam 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Happy",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Setia",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Muhibbah 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Muhibbah 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Sungai Dara",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Ladang Sungai Samak",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Cempaka Sari",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Permai",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Wawasan",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Bunga Raya",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bunga Raya",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Orkid",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Pertama",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Kubu",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Bunga Anggerik",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Chong Ah Peng",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Douglas",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Loke Yew",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Maktab",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Jalan Zaaba",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Berop",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Chabang Lima",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Changkat Khir",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Jelintang",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Kelawar",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Kerbau",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Ketoyong",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Lambak",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Lubok Salak",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Mogah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Ramli",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Seri Geriang",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Simpang Empat Dalam",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Sungai Merbau",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Ketoyong Estate",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kota Malim Prima",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Permai 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Permai Utama",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Rumah Awam 3",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Simpang Berop",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Anggerik Desa 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Anggerik Desa 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bernam",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bernam Baru",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bernam Permai",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bina",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Golden Wood",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Happy 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Hijau (Jalan Ketoyong)",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Hijau (Ulu Bernam)",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Hijau 2 Ketoyong",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Intan Setia",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Ketoyong",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Ketoyong Indah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Ketoyong Permai",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Loke Yew",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Majolim",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Malim",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Malim 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Malim Indah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Nakhoda",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Paik Siong",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Pelangi 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Pelangi 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Pinggiran Bernam",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Samudra 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Samudra 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Segar",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Segar Fasa 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Seri Tanjong",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Slim",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Sri Geriang Tambahan",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Sri Indah 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Tanjong Malim",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Universiti",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Universiti 2",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Wangsa",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Wangsa Jaya",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjong 1",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjong 3",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjong 5",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjong 7",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjong Utama",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Tanjung Malim",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Sungai Sekiah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Kampung Melaka",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Bandar",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Juta Jaya",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Taman Sri Indah",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "35900",
+        "Location": "Slim Makmur",
+        "Post_Office": "Tanjong Malim",
+        "State": "Perak"
+    }
+]

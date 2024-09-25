@@ -1,0 +1,920 @@
+[
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Tanjung Pagar",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Baru Kuala Abang",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Batu 6",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Kubang Putat",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Pelandang",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Jeti",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Alor Tempoyak",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Jongok Batu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Kertas Pulas",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Seberang Pintasan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sura Hujung",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Melur 4 ",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Pantai",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bukit Bauk 1",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bukit Bauk 2",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Pelangi 1",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Pelangi 2",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Alor Rekam",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Alor Tembesu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Alur Mak Bah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Baru Sungai Udang",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bemban",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bijangga",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Chatak",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bunga Raya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Molek",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Paya Balai Besar",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Paya Kemudi",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Pengkalan Jering",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sungai Buaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sura Jeti",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sura Tengah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Tanjung Seta",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Teluk Lipat",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Al- Khatab",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Angsana",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bersekutu Jaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bukit Bauk",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Desa Haji Idris",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Elina 2",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Hadhari",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Insan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Kalongan Intan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Kenanga",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Kenangan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Mutiara 2",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Permint",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Rakyat Jaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sri Dungun",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sri Rumbia",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Damai 2",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Gate",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Indah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Tengah ",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Warisan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Alor Rekan Bemban",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Bangunan Abdullah Osman",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Bangunan Haji Wahab",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Bangunan Maidam",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Bangunan Yayasan Islam",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Bukit Tok Bilal",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Dungun",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Dungun (Batu 48)",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Dungun Beach Resort",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Alor Tembusu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bahagia Tok Kah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Balai Besar",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Batu Lima",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Batu Puteh",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Batu Tujuh",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Belah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Murai",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Pauh",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Tok Bilal",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Che Lijah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Delong",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Gong Pasir",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Jongkok Batu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Kemudi",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Padang Jambu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Padang Pulut",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Pak Sabah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Pulau Serai",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Raja Wali",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Rhu Batil",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Serdang",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sukur",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Talong",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Tanjong Batu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Tanjong Pati",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Tok Kah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kompleks Perniagaan Sura Gate",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kuala Dungun",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kuala Jengal",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kumpal",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Padang Pulut",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Pasir Raja",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Sukur",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Sura Gate",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Talong",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Alina",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Anjaria",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bersekutu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bijaya Sura",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bukit Catak",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Bunga Raya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Cenderawasih",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Gemilang",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Gong Pasir",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Haji Idris",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Harmoni",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Himiran",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Intan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Jejawi",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Kurnia Jaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Mas Intan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Melati",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Mesra",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Murni",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Norlida",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Omar Al Khatab",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Pantai Sura",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Perdana Bukit Catak",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Permint Indah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Rakyat",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Raya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Ros",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Rumbia",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Saeda",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Selasih Perdana",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Seri Dungun",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Setia",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sri Intan",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sri Tanjung",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Jaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Perdana",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sura Permai",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Sutera",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Telok Lipat",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Wahyu",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Zaharah",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Tanjung Jara Beach Resort",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Binjai",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Sungai Pimpin",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Cempaka",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Delima",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Mawar",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Melor",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Kampung Bukit Merah ",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Anggerik",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Jaya",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "23000",
+        "Location": "Taman Mutiara",
+        "Post_Office": "Dungun",
+        "State": "Terengganu"
+    }
+]

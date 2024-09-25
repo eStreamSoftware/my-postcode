@@ -1,0 +1,488 @@
+[
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Air Deras",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Alor Lik",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Pusu Tiga",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Bukit Kubor",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Tasek",
+        "Post_Office": "Chalok",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Batu 9",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Berangan Pak Ayu",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Binjai Rendah",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Bukit Cerana",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Bukit Damar",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Bukit Payong",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Bukit Sawa",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Dusun Batu 10",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Geleguh",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Gondang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Gong Kekabu",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Gong Kiat",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kenerak",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kubang Birai",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kubang Che Man",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Lebam",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Leban",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Limau Nipis",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Pak Wan",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Tanjung",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Paya Resak",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Sena Rendang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Sungai Serai",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Surau Haji Mat Zin",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Surau Haji Yaakob",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Tanjung Aur",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Tasek Masjid",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Tok Hakim",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Wakaf Kedondong",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Wakaf Nyior Kembar",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Wakaf Pak Ya",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Bukit Che Nik",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Bukit Payong",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Bukit Sawa",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Desa Mengkudu",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Desa Salam",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Dewasa",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Haji Ismail",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Jasa",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Kiambang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Mas",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Nur Bakti",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Padang Pasor",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Putri Indah",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Putri Payung",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Riny",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Safiah Murni",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Suri Jaya",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Wakaf Jaya",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Waris",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kubang Palas",
+        "Post_Office": "Kuala Terengganu",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Bukit Payong",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Alor Limbat",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Banggol Kapas",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Banggol Tasek",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Binjai Bongkok",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kubang Belukar",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Kubang Panjang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Mak Kemas",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Nyut-Nyut",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Kabar",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Mengkuang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Padang Midin",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Pak Madah",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Pantai Ali",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Pasir Tinggi",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Rawai",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Tasek",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Tebakang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Telaga Mengkudu",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Undang",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Kampung Wakaf Dua",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Rejimen 512 - Askar Wataniah",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Koperasi",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Mewah",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    },
+    {
+        "Postcode": "21400",
+        "Location": "Taman Padang Midin",
+        "Post_Office": "Bukit Payong",
+        "State": "Terengganu"
+    }
+]

@@ -1,0 +1,734 @@
+[
+    {
+        "Postcode": "84150",
+        "Location": "Taman Melur",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Lapis",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pulai",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Seroja",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Bukit Mor",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Parit Bulat Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Parit Pinang Seribu",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Parit Shafiee",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kawasan Industri Parit Jamil",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Baba Hitam",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Bulat Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Bulat Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Haji Ali Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Haji Ali Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Simpang 3",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Simpang 4",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Ulu",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Ulu Parit Nawi",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Karjani",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kasim",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kassim Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kedondong",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kedondong Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kedondong Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kedondong Parit Bulat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Keliling Pantai",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Keranji Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Lapis Parit Seri",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Limbong Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Limbong Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Melan",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Mislam",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Nawi",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pali",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pandan Sari",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Paya Lebar",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pecah Benteng",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pecah Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pecah Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pinang Seribu",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pinang Seribu Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pulai Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Punggor Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Punggor Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Samsu Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Samsu Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Seri",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Seri Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Shafiee",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tarom",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tarom Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Unas Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Unas Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Pekan Bukit Mor",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Rumah Guru",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Seri Menanti Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Seri Menati Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Sungai Parit Sekolah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Sungai Pulai",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Sungai Pulai Benteng",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Sungai Pulai Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bintang Baru",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bukit Mor",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bukit Mor Baru",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Desa Pantai",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Lastari",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Limbong Mewah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Limbong Sejahtera",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Pandan Sari",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Parit Kassim",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Parit Limbong",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Parit Tengah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Pinang Sari",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Pinang Sri",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Sri Mor",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Sri Unas",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Sri Unas Baru",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Tarom",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Limbong Maju",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Nipah Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Penyengat Darat ",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Penyengat Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bukit Mor 1",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bukit Mor 2",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Sungai Resek",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Ulu Jamil",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Padang Lapis Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Bulat Lintang",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jamil Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pecah Lintang",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Pinang Seribu Tengah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Samsu Lintang",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Seribu Pinang Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tunggul Tepi Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Unas Tengah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Sungai Pulai Benting",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Saroja",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Kangkong",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Nipah Laut ",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Salman",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Nelayan",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Paya Lebar",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Kampung Seri Menanti",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Aman",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Gantong",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Haji Ali",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Ibrahim",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Jawa",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Lintang",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tengah",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tengah Darat",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tengah Laut",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Parit Tunggul",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Dahlia",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Desa",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Melati",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Molek",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Pelangi",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Bintang",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    },
+    {
+        "Postcode": "84150",
+        "Location": "Taman Cempaka",
+        "Post_Office": "Parit Jawa",
+        "State": "Johor"
+    }
+]

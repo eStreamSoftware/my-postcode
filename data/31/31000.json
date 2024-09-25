@@ -1,0 +1,590 @@
+[
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Batu 1",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Cempaka",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Kam Seng",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman New Happy",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Bersatu",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Batu Gajah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Bemban New Village Camp",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Changkat Park",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Chenderong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Indian Settlement Tambahan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Jalan Mtd",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Aji",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Ara Payong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Bakap",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Bakap Baru",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru (Km 1.5)",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru Batu 7",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru Bemban",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru Chendrong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru Mtd",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Baru Sungai Terap",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Bendera",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Changkat Belengkor",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Chenderong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Dobi",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Jerai",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Jernih Baru",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Kamariah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Malai Perumal",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Matang Kulim",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Muhibbah Chenderong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Pasir Tambahan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Sentang",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Sentang Tambahan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Serani",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Seri Indah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Seri Kulim",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Seri Mariah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Suprayan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Tasek Permai",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Telok Pedang",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Tersusun Chenderong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Tersusun Sentang Tambahan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Tersusun Seri Jaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kinta Valley Estate",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Ladang Harewood",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Mid Indian Camp",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Mid New Village",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Rancangan Tersusun Batu 2",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Rumah Murah Bemban N/V",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Rumah Murah Chenderong",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Smtd Batu Tujuh",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Sungai Terap",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman A1359 (Bemban Raya)",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Batu Gajah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Bunga Mawar",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Bunga Melor",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Greenhill",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Jalan Pasar",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Lembah Permai",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Mewah Indah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Pinggir Saujana",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Sakura",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Sayang",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Sri Cahaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Yoke Kim",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Yuk Kwai",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Tien Shin Park",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Anggerik",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Bunga Raya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Damai",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Mewah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Pelangi",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Saujana",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Setia Jaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Sri Jaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Ayer Mati",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Sri Jaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Sungai Terap",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Indian Settlement",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Batu 2",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Batu 3",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Batu 6",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Batu 8",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Changkat Baru",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Haji",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Manggis",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Muhibbah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Pasir",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Pisang",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Sultan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Kampung Tersusun",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Cahaya",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Happy",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Indah",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Intan",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    },
+    {
+        "Postcode": "31000",
+        "Location": "Taman Sri Wangsa",
+        "Post_Office": "Batu Gajah",
+        "State": "Perak"
+    }
+]

@@ -1,0 +1,728 @@
+[
+    {
+        "Postcode": "45300",
+        "Location": "Bagan Sungai Besar",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Bagan Sungai Burong",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Lubuk Pusing",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tanjung Medan",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Binjai Jaya",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Hala Cara Baru",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Pulau Gandasuli",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Lias Baroh",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tebuk Marso\r\n",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Medan Sungai Besar",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Pusat Perniagaan Sungai Lias",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Bedena",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Bedena Jaya",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Desa",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Kanakam",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Nirwana Indah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Penggawa",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Perwira\r\n",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Raya",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Setia 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Desa Ehsan",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Anggerik",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Bagan ",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Bunga Kemboja",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Bunga Kenanga",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Mahsuri",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Perwira ",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Taiban",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Binjai Patah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Jurang Belanga",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Nyior Sebatang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Panchang Bedena",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit Enam",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit Sebelas",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit Sembilan",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Peket 100",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Peket 20",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Peket 60",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Simpang Lima",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Haji Dorani",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Lias",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Limau",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Nipah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Sungai Panjang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tebok Baru",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tebok Haji Yusop",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tebok Kenchong",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Tok Khalifah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Parit 13 Sungai Panjang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Parit 16 Binjal Patah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Parit 17 Sungai Panjang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Simpang Lima",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Sungai Besar",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Sungai Haji Derani",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Sungai Panjang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Bedena Jaya 3",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Berkat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Cahaya",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Ehsan 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Gembira",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Muhibbah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Nirwarna",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Padu Permai",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Padu Permai 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Perdana",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Purnama",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Purnama 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Purnama Mewah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Ria 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Seri",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Seri Suria",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Setia Jaya",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Sri Bedena",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Sri Dua",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Tebok Haji Dahalan ",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Bagan Terap",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Desa Kasih",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Bakti",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Makmur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Melati",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Ria",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Sri Indah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Suria",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Nelayan",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Bayu",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Desa Indah",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Ehsan",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Taman Gemilang",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Menteri",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Jalan Malinja",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Belia 1",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Belia 2",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 1 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 1 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 10 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 10 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 11 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 11 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 12",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 13",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 14",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 15",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 16",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 17",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 18",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 2 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 2 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 3 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 3 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 4 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 4 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 5 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 5 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 6 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 6 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 7 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 7 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 8 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 8 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 9 Barat",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45300",
+        "Location": "Kampung Parit 9 Timur",
+        "Post_Office": "Sungai Besar",
+        "State": "Selangor"
+    }
+]

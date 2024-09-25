@@ -1,0 +1,986 @@
+[
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Aman",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Asrama Sekolah Zainab",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Batu 2 1/2",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Batu 2 1/4",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Batu 2 3/4",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Batu 3",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Pasar Borong Wakaf Che Yeh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Belakang Sek.Bunut Payung",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Che Gu Batu 3",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Depan Jps",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Desa Harmoni",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Abdullah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Hamzah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Mat Salleh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Loji Air",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Madrasah Utama",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Pak Daud",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Pondok Bunut Payung",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sri Andam",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Telaga Bina",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Hujung Merpati ",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Ismail 1",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Ismail 2",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Kebangsaan Sultan Ismail 1",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Kebangsaan Sultan Ismail 2",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Kebangsaan Sultan Ismail 3",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Rupek",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Tebing Tiong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Harmoni",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Restu",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Bangunan Teong Hoe",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Batu 2 1/2 Bunut Payong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Batu 3 Bunut Payong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Batu 3 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Batu 4 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Asrama Sekolah Zainab",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Lee Motor",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Sekolah Sic",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Sekolah Zainab",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Taman Guru",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Belakang Telekom Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Billion Shopping Centre",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Bunut Payong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Desa Harmoni Batu 3 Wakaf Che Yeh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Dusun Lada",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Eco Deco Batu 3 3/4 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Air Deras",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Bunut Payong Kanan",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Bunut Payong Kiri",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Embi",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Hadapan Sekolah Menengah Kota",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Hilir Pasar Wakaf Che Yeh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Janakuasa Letrik",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Jelutong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kampung Puteh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kampung Sireh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kota Kuang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai - Jalan Kota Kuang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Batu 3 1/4",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Belakang Jpj Lama",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Kuala Krai Off Kampung Puteh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Lubang Kacang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Masjid Kota",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Masjid Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Masjid Padang Enggang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Padang Enggang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Padang Pakat",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Pasir Hor Padang Enggang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Pasir Puteh Kanan",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Raja Dewa Hilir",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Raja Dewa Hilir Tengah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Raja Dewa Hulu",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Sekolah Kebangsaan Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Sekolah Kebangsaan Tiong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Sekolah Menengah Kota",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Sultan Yahya Putera",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Syed Omar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Taman Adika",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Taman Hilal",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Taman Jelutong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Taman Kampung Puteh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Taman Telipot",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Telaga Limau",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Telipot",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Telipot Taman Restu",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Tengku Ismail",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Jalan Wakaf Che Yeh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Baru 3 Batu 3 3/4 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Baru Jempar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Batu Dua",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Bawah Lembah Blk Sic",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Belukar Belakang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Belukar Benut Payong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Belukar Cabang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Belukar Jalan Telipot",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Belukar Jenerah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Bentong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Bunut Payong Kanan",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Bunut Payong Lembah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Buruh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Dalam Kar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Dewan Beta",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Gaung Beta Hilir",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Keladong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Kubang Kacang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Langgis",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Lasah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Mashar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Padang Darat",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Padang Penyedap",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Paya Keranji",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Paya Senang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Puteh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Siam",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kampung Wakaf Sireh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kondominium Permai Sb Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kota Bharu Medical Centre",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kota Darulnaim",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kota Sri Mutiara",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Kuarters Mara Batu 2 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Aman",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Aman Batu 2 Jalan Kuala Krai",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Batik Malaysia",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Belakang Batik Malaysia",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Belakang Sekolah Sic",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Cik Kadir",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Dato Wan Omar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Depan Mara",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Hajah Meriam",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Kadir",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Wan Hassan",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Haji Wan Kadir",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Hilir Sekolah Kebangsaan Seri Kota",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Kampung Aman",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Kampung Puteh",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Madrasah Kampung Tini",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Mastika",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Merican",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Merican Kampung Langgar",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Mpkb",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Pengkalan Pondok",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Saka",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sekolah Poly Sains",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Sri Payong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Wan Yaakub",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Lorong Yusmaria Batu 2 1/4",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Pusat Giat Mara",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Renaissance Hotel",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Sekolah Kebangsaan Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Sekolah Kebangsaan Tiong",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Simpang Tiga Telipot",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Desa Telipot",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Halal",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Hilal",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Indera Pura",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Melati Lundang",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Nik Rahmah",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Noor Mansur",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Nor Mansor",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Taman Setia",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Wakaf Siku",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    },
+    {
+        "Postcode": "15150",
+        "Location": "Wisma Sri Nilam",
+        "Post_Office": "Kota Bharu",
+        "State": "Kelantan"
+    }
+]

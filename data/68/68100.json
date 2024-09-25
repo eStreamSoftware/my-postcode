@@ -1,0 +1,980 @@
+[
+    {
+        "Postcode": "68100",
+        "Location": "Dataran Templer",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Bendahara ",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Indah Gemilang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Samudra",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Samudra Teres",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sri Melati",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sri Murni",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sri Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Anjung Melati",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Dataran Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Baru Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Kennison",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Lembah Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Melayu Seri Gombak",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Melayu Wira Damai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Orang Asli Bukit Lagong",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Bahagia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Sepakat Jaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Seri Gombak Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Medan Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Park Dolomite Business",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Park Spring Crest Industrial ",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Puncak Templer",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pusat Niaga Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Suria Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Astana Gemilang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Damai Jaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Desa Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Gombak Permai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Gombak Ria",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Greenwood Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Industri Selayang Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Laksamana Permai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Melewar Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Paragon Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perindustrian Samudra",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Pinggiran Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Pinggiran Permata",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Prima Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Residensi",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Mulia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Sejati",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sunway Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Idaman Puri",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Setia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Perusahaan (1 - 4)",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Bullion Mewah 9A",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Bullion Mewah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Amaniah Mulia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Bahtera",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pusat Perdagangan Selasih",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Bukit Permata ",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Changkat Desa",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sri Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Sri Gombak",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Bandar Baru Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Batu Caves Centre Point",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Raintree Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Baru Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Bukit Botak",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Cangkat",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Dato Karim",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Gombak Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Gombak Jaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Laksamana",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Laksamana Jaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Lalat",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Lembah Melewar",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Lembah Mutiara",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Lembah Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Mahkota",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Melayu (Batu 3)",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Nakhoda",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Pinggiran Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Pinggiran Wira Damai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Baru",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Lama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Pandang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Permai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Selayang Tin",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Seri Chendana",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Seri Tanggang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Seri Temenggong",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Sungai Kertas",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Sungai Tua",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kampung Sungai Tua Baru",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Kota Warisan Selayang Bahagia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Lebuhraya Kl - Karak (Hingga Plaza Tol)",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Medan Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pangsapuri Angsana",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pasar Besar Selayang Baru",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pusat Pasar Borong Kuala Lumpur",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Baru",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Baru Tambahan",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Mulia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Pandang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Selayang Point",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Summit Square",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Amaniah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Aminah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Batu",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Batu Muda",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Batu View",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Berlian",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Bidara",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Bukit Idaman",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Desa Bakti",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Desa Minang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Desa Padu",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Gombak",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Greenwood",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Industri Bolton",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Industri Kimpal",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Jasa",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Jasa Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Karak Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Koperasi Polis",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Melewar",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perangsang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perdana Residensi",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perindustrian Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perindustrian Selayang Indah ",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Pinggiran Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Pinggiran Templer",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Raintree",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Renong Tin",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Rowther",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Samudra Utara",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selasih",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Bahagia",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Baru",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Indah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Jaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Makmur",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Pandang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Permai",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Permata",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Segar",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Utama",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Spring Crest",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Wahyu",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Wilayah",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Zon Perindustrian Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Berjaya",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Gemilang",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Ipoh",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jalan Ariza (Taman Raintree)",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Persiaran Rymba",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Gombak Rymba",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Perindustrian Batu Caves",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Selayang Mutiara",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Andari Townvilla",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Batai Apartment",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Jelutong Apartment",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Simfoni Heights",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Taman Jasa Perwira",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "68100",
+        "Location": "Pangsapuri Selangorku Seri Temenggung",
+        "Post_Office": "Batu Caves",
+        "State": "Selangor"
+    }
+]

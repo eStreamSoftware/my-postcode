@@ -1,0 +1,944 @@
+[
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Pelangi",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Dock",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Perai Utama",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Senangin 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Senangin 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 7",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Kikik 8",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lintang Talang 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lintang Talang 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lintang Talang 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Kikik 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 10",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 11",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 12",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 13",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 14",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 15",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 16",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 17",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 7",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 8",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Nagasari 9",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan 3A",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan Baru 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan Baru 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 10",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 11",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 12",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 13",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 14",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 15",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 7",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 8",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Sagajaya 9",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 10",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 11",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 12",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 13",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 14",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 15",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 6",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 7",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 8",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Senangin 9",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Medan Kikik 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Medan Kikik 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Medan Kikik 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Kikik 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Kikik 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Kikik 3",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Kikik 4",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Kikik 5",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Solok Kikik 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Solok Kikik 2",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Chain Ferry",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Pengkalan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Belibis",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Emas",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Dermaga Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Halaman Kikik",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Hujung Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Institut Teknologi Tun Abdul Razak",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Baru Prai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Besar Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Dato Keramat",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Kepar",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Kikik",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Nagasari",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perai Utama",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Persiaran Baru 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan 4B",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan 6D",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan Baru",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan Baru 1",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Perusahaan Maju",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Sagajaya",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Satu Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Jalan Talang",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Dato Keramat",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Jalan Besar",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Main Road",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Manis",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Prai Garden",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kampung Railway Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kawasan Perusahaan Bukit Tengah",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kawasan Perusahaan Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Klinik Kesihatan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kuarters Jkr",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kuarters Kastam",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Kuarters Kesihatan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lebuhraya Juru",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lebuhraya Utara Selatan (Pejabat Plus)",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lengkok Persiaran Maju",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perai Utama",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan Baru",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Perusahaan Maju",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Lorong Talang",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Medan Senangin",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Medan Talang",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Pangsapuri Ktm",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Pangsapuri Perai Utama",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Pangsapuri Setiawira",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Perai Garden",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Perai Industrial Estate",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Perai Industrial Kompleks",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Persiaran Maju",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Perumahan Bomba",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Perumahan Tnb",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Puncak Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Solok Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Inderawasih",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Kepar",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Nagasari",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Pelangi",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Perai Indah",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Perindustrian Saga Jaya",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Perusahaan Pelangi",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Saga Jaya",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Taman Senangin",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Tingkat Kikik",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Tingkat Perusahaan",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Tingkat Senangin",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Tingkat Talang",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "13600",
+        "Location": "Zon Perindustrian Perai",
+        "Post_Office": "Perai",
+        "State": "Pulau Pinang"
+    }
+]

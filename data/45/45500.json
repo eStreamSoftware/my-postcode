@@ -1,0 +1,656 @@
+[
+    {
+        "Postcode": "45500",
+        "Location": "Sungai Burung",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Damai ",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Seri Tiram Jaya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Kajang Baru",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Tiram Setia",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Kopema",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Mahsuri",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Mahsuri Indah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Malinja",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Masria",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Padi Emas",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Radin Jaya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Ria Mas",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Ria Min",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Seri Bakti",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Tiram Baru",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Tiram Utama",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Bagan Sungai Kajang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Bagan Sungai Tengkorak",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Bagan Tanjung Karang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Batang Berjuntai",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Aman",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Bagan Tengkorak",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Balai Raya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Haji Yadan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Jepun",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Kilang Gula Lama",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Kilang Padi",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Kunci Air Buang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Nasional",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Persiaran",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Sekembang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Semangat",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Seri Tiram Jaya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Dato Adam",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Haji Razali",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Parit Serong",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Pindah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sawah Sempadan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Seri Gambut",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Seri Tiram",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Gulang-Gulang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Kajang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Kajang Lama",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Tengi",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Tengi Kanan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Tengi Kiri",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Terap",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Tunggul",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Yu",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Tengah Kanan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Tengah Kiri",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Ulu Tiram Luar",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Bahagia",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Berlian",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Cempedak",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Chempaka",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Hamzah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Intan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Kenanga",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Nenas",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Permata",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Pusara",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Sawah Sempadan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Sungai Sireh",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Desa Emas",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Desa Mawar",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Gembira",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Ketam",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Khatijah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Mahsyuri Indah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Mas Ria",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Mas Ria 2",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Masdi",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Melinja",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Proton",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Radin Mas",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Sentosa",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Seri Desa",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Seri Setia",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Seri Tiram 1",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Seri Tiram 2",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Sungai Yu",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Suria Indah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Tanjong Karang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Tanjong Karang Baru",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Wawasan",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Tanjung Karang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kompleks Hospital Tanjong Karang",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Burung",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Ulu Tiram Buruk",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Ulu Tiram Buruk Luar",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Sri Jaya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Sri Tanjung",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Bahagia",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Desa Kasih",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Indah",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Makmur",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Ria",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Desa Jaya",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Nilam",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Taman Sahabat",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Bernam",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Harmoni",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Malinja",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Jalan Tepi Sungai",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Dato Ahmad Razali",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Kampung Sungai Sireh",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    },
+    {
+        "Postcode": "45500",
+        "Location": "Lorong Melati",
+        "Post_Office": "Tanjong Karang",
+        "State": "Selangor"
+    }
+]

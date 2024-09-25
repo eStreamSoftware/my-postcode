@@ -1,0 +1,362 @@
+[
+    {
+        "Postcode": "75300",
+        "Location": "Taman Rumpun Bahagia",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Bank Rakyat",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Dato Ghani Ali",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Dato Mohd",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Graha Maju",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Jaya Muda",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Mara",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Seri Negeri",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Wisma Persekutuan",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Bangunan Yayasan Melaka",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Dewan Hang Tuah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Flat Kenanga Mewah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Gajah Berang",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Hang Tuah Mall",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Bachang",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Graha Maju",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Hang Tuah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Kampung Empat",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Kampung Morten",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Kilang",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Kubu",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Ong Keng Hoon",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Ong Kim Wee",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Pelandok Putih",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tan Chay Yan",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tang Yee Biew",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tengkera (Atas \u0026 Bawah)",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Ali",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Mamat",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Mutahir",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Perak",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Perak (Bachang)",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Tun Perak Kampung 6",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Bakarbatu",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Baru Melaka",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Empat (Kubu)",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Enam (Bachang)",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Morten",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kampung Tujuh",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kma Digital Mall",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Kompleks Mara",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Lorong Belakang",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Pangsapuri Sri Kubu",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Pangsapuri Tun Mutahir",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Pangsapuri Tun Perak",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Pasar Besar",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Plaza Hang Tuah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Plaza Sri Kubu",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Plaza Usahawan",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Plaza Wang",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Rumah Pangsa Kenanga Mewah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Rumah Pangsa Muhibbah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Soon Seng Plaza",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Taman Nam Seng",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Taman Orkid Mewah",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Taman Rumpon Bahagia",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Wisma Persekutuan",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Flat Kenanga Seksyen 3",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Jalan Kenanga",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    },
+    {
+        "Postcode": "75300",
+        "Location": "Residensi Ong Kim Wee",
+        "Post_Office": "Melaka",
+        "State": "Melaka"
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Kampung Masjid",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Masjid",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Matahari Naik",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Mas",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Widuri",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Emerald",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Lagenda Emerald",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Permatang Damar Laut",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Gertak Sanggul",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Sungai Batu 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Sungai Batu 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Sungai Batu 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lengkok Telok Kumbar 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lengkok Telok Kumbar 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lengkok Telok Kumbar 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lengkok Telok Kumbar 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lintang Teluk Kumbar 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lintang Teluk Kumbar 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lintang Teluk Kumbar 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu 6",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Persiaran Sungai Ara 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Persiaran Sungai Ara 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Persiaran Sungai Ara 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Persiaran Sungai Ara 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Pasir Belanda 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Pasir Belanda 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Pasir Belanda 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Pasir Belanda 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Pasir Belanda 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Bukit Belah 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Bukit Belah 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Bukit Belah 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Bukit Belah 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Sungai Batu 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Sungai Batu 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 6",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 7",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Pasir Belanda 8",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Sungai Batu 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Sungai Batu 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Sungai Batu 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Sungai Batu 5",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Teluk Kumbar 1",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Teluk Kumbar 2",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Teluk Kumbar 3",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Teluk Kumbar 4",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bagan Pasir Belanda",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bagan Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bandar Baru Perda",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bandar Baru Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bandar Perda Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bukit Gemeruh",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Bukit Gemuruh",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Cangkat Bukit Belah",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Bukit Belah",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Pasir Belanda",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Jalan Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Bukit",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Bukit Belah",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Masjid (Gertak Sanggol)",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Matahari Jatuh",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Nelayan",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Nelayan Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Paya Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Sepakat",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Suluh",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Sulup Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Sungai Batu Mk. 11",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Kampung Sungai Batu Mk. 9",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Krystal Country Homes",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lengkok Kampung Masjid",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lintang Kampung Masjid",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lintang Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sinar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Lorong Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pekan Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Pintasan Kampung Masjid",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Saujana Heights",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Simpang Tiga Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Pasir Belanda",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Solok Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Desa",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Sahabat",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Sri Gemuruh",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Teluk Indah",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Taman Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Teluk Kumbar Mukim 9",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Sungai Batu",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    },
+    {
+        "Postcode": "11920",
+        "Location": "Tingkat Teluk Kumbar",
+        "Post_Office": "Bayan Lepas",
+        "State": "Pulau Pinang"
+    }
+]
